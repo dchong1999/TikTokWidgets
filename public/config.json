@@ -1,7 +1,7 @@
 {
 
-  "uniqueId": "santajclaus",
-  "fontSize": 64,
+  "uniqueId": "scotts.pc",
+  "fontSize": 50,
   "fontWeight": 800,
   "fadeIn": 2000,
   "fadeOut": 2000,
@@ -11,21 +11,21 @@
 
   "sounds": {
     "gift": {
-      "rose": "/sounds/enchanted.wav",
-      "default": null
+      "rose": "/sounds/eevee-starter.mp3",
+      "default": "/sounds/eevee-starter.mp3"
     },
-    "subscribe": "/sounds/enchanted.wav",
-    "follow": "/sounds/enchanted.wav"
+    "subscribe": "/sounds/charizard-sub-compressed.mp3",
+    "follow": "/sounds/pikachu_scream.mp3"
   },
 
   "enabled": {
     "gift": true,
-    "subscribe": false,
+    "subscribe": true,
     "follow": true
   },
 
   "firstFollowOnly": true,
 
-  "volume": 0.2
+  "volume": 1.0
 
 }
